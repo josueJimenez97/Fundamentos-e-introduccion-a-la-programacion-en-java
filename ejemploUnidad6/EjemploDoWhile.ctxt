@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=perimetro\ cantVueltas
+comment0.target=int\ calcularEnergiaGasto(int,\ int)
+numComments=1

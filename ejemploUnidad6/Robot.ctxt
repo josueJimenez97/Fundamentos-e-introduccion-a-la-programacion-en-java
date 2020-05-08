@@ -1,11 +1,10 @@
 #BlueJ class context
-comment0.target=Robot
-comment1.params=energiaMax
-comment1.target=Robot(int)
-comment2.params=
-comment2.target=void\ cargarEnergia()
+comment0.params=energiaMax
+comment0.target=Robot(int)
+comment1.params=
+comment1.target=void\ cargarEnergia()
+comment2.params=perimetro
+comment2.target=int\ cantVueltas(int)
 comment3.params=perimetro
-comment3.target=int\ cantVueltas(int)
-comment4.params=perimetro
-comment4.target=int\ cantVueltas2(int)
-numComments=5
+comment3.target=int\ cantVueltas2(int)
+numComments=4
