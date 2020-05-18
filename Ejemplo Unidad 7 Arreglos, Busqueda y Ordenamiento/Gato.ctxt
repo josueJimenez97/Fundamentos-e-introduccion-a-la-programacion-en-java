@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=edad\ peso\ nom
+comment0.target=Gato(int,\ double,\ java.lang.String)
+comment1.params=otro
+comment1.target=boolean\ equals(Gato)
+comment2.params=
+comment2.target=int\ getEdad()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=double\ getPeso()
+comment5.params=valor
+comment5.target=void\ setPeso(double)
+numComments=6
